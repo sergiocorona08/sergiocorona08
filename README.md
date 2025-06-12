@@ -1,4 +1,4 @@
-![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
+![]([https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr))
 
 
 ### [sergio_corona08]([https://eyyminda.vercel.app/](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr)) ${\color{orange}- \space Software \space Developer}$  
