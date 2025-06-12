@@ -1,7 +1,7 @@
 ![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
 
 
-### [eyyMinda](https://eyyminda.vercel.app/) ${\color{orange}- \space Software \space Developer}$  
+### [sergio_corona08]([https://eyyminda.vercel.app/](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr)) ${\color{orange}- \space Software \space Developer}$  
 
 Hey there! I’m a dev, constantly pushing myself to be **faster, more efficient, and more reliable**. I thrive on learning, improving, and finding smarter ways to build things.  
 
