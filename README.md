@@ -5,7 +5,7 @@
   <a href="[(https://www.linkedin.com/in/sergioamaciascorona/)]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[(https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr)]">
+  <a href="[(https://www.instagram.com/sergio_corona88/)]">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     </h1>
@@ -42,5 +42,6 @@ Let’s connect — I'm always up for a challenge!
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
   - Last Edited on: 12/06/2025
