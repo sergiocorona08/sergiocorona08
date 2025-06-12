@@ -1,4 +1,4 @@
-![]([[main-qimg-9f5ede91712741f9c47b8558aa4e9765.webp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBxb3pseDhtNjUxanZmc2k0dnY4ZnFpbmp2dTQ1OXVmaWk4bDFtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVaxcJZSJx42cCuWyZ/giphy.gif)])
+![](./main-qimg-9f5ede91712741f9c47b8558aa4e9765.webp)
 
 
 ### [sergio_corona08](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr)) ${\color{orange}- \space Robotics \space Engineer}$  
