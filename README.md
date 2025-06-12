@@ -1,4 +1,4 @@
-![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
+![]([https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp](https://qph.cf2.quoracdn.net/main-qimg-9f5ede91712741f9c47b8558aa4e9765))
 
 
 ### [sergio_corona08](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr)) ${\color{orange}- \space Robotics \space Engineer}$  
