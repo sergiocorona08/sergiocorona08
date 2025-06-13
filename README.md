@@ -9,7 +9,7 @@
 </div>
 
 ---
-### [sergio_corona08](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr)) ${\color{blue}- \space Robotics \space Engineer}$  
+### [sergio_corona08](https://www.instagram.com/sergio_corona88?igsh=MWM4anFmYmYzOWNvdA%3D%3D&utm_source=qr) ${\color{blue}- \space Robotics \space Engineer}$  
 
 Hi, I'm Sergio Macías, a Robotics Engineer with a strong human sense and passion for learning new things! I'll probably share many of my personal projects here, hopefully you'll find some inspiration and have some fun!🚀
 
